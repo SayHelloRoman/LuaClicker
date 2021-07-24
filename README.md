@@ -1,4 +1,4 @@
-# Lua clicker
+# Сlicker
  
 - Простой кликер на Solar 2D
 
